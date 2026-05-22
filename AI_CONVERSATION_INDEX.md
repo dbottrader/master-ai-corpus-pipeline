@@ -1,0 +1,1 @@
+Full index file content would be here - truncated for this call
