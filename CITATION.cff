@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Master AI Corpus Pipeline"
+authors:
+  - family-names: Christie
+    given-names: Dennis
+date-released: 2026-05-22
+license: MIT
+repository-code: "https://github.com/dbottrader/master-ai-corpus-pipeline"
